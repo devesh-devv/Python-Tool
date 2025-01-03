@@ -1,0 +1,1 @@
+This Python tool provides a menu-driven approach to fetch HTTP headers, extract cookies, and save headers to a file. It supports automatic reuse of cookies for subsequent requests and includes functionality to modify Set-Cookie headers before reuse. With options to handle single or multiple URLs, the tool is designed for flexible and interactive HTTP header analysis.
